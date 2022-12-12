@@ -4207,3 +4207,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.12-15.23.55:175][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.12.12-15.23.55:181][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
 [2022.12.12-15.23.55:214][785]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2022.12.12-15.24.43:045][770]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2022.12.12-15.24.43:068][770]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/ThirdPersonExampleMap_Auto4218F2EB84C5464D8E850F18A4DCE6414.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2022.12.12-15.24.43:081][770]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.097
+[2022.12.12-15.24.43:081][770]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
+[2022.12.12-15.24.43:081][770]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Runer/MasterTile] ([2] browsable assets)...
+[2022.12.12-15.24.43:098][770]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Runer/MasterTile.MasterTile]
+[2022.12.12-15.24.43:098][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/Runer/MasterTile]
+[2022.12.12-15.24.43:098][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runer/MasterTile" FILE="../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/Autosaves/Game/Runer/MasterTile_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.12.12-15.24.43:115][770]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/MasterTile_Auto46E89E9094D64D07EF07858A3A70DAB63.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/Autosaves/Game/Runer/MasterTile_Auto4.uasset'
+[2022.12.12-15.24.43:116][770]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([2] browsable assets)...
+[2022.12.12-15.24.43:116][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2022.12.12-15.24.43:131][770]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/ThirdPersonGameMode_Auto449CBDC984A6EA0869D5AD4875B5C97AD.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto4.uasset'
+[2022.12.12-15.24.43:132][770]LogFileHelpers: Auto-saving content packages took 0.051
+[2022.12.12-15.27.49:613][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.12.12-15.27.56:803][719]LogSlate: Window 'Save Content' being destroyed
+[2022.12.12-15.28.03:073][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.12.12-15.28.03:160][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.12-15.28.03:177][454]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/ThirdPersonExampleMap0846EFA545C21F3FFA269E9F00F6BBBC.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.12-15.28.03:211][454]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.097
+[2022.12.12-15.28.03:211][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runer/MasterTile" FILE="../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/MasterTile.uasset" SILENT=true
+[2022.12.12-15.28.03:220][454]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/MasterTileF671C6014EEE54272AC61A9A37746C8E.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/MasterTile.uasset'
+[2022.12.12-15.28.03:233][454]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/ThirdPersonGameMode97C26E3342572FB9A3B3BFB3C9C53B8B.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2022.12.12-15.28.03:234][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runer/top1" FILE="../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/top1.uasset" SILENT=true
+[2022.12.12-15.28.03:315][454]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/top1B265337748CD064C52C842B25A89A984.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/top1.uasset'
+[2022.12.12-15.28.03:316][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runer/top4" FILE="../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/top4.uasset" SILENT=true
+[2022.12.12-15.28.03:394][454]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/top4A3F941EF40BD938D4CAADFB7B0D31AA3.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/top4.uasset'
+[2022.12.12-15.28.03:395][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runer/top3" FILE="../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/top3.uasset" SILENT=true
+[2022.12.12-15.28.03:474][454]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/top391A961D04441375ABC078282DCBE6D86.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/top3.uasset'
+[2022.12.12-15.28.03:475][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runer/top2" FILE="../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/top2.uasset" SILENT=true
+[2022.12.12-15.28.03:552][454]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/top25227E13D47CE0E6F4D369B823BF02566.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/top2.uasset'
+[2022.12.12-15.28.03:553][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runer/Train" FILE="../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/Train.uasset" SILENT=true
+[2022.12.12-15.28.03:573][454]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/Train0CD65BBF4FAACF054BFFF383203D85F1.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/Train.uasset'
+[2022.12.12-15.28.03:606][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runer/Cube_Blueprint" FILE="../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/Cube_Blueprint.uasset" SILENT=true
+[2022.12.12-15.28.03:617][454]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/Cube_Blueprint6BFECEA14A43F3A5C67103A985707551.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/Cube_Blueprint.uasset'
+[2022.12.12-15.28.03:618][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runer/top" FILE="../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/top.uasset" SILENT=true
+[2022.12.12-15.28.03:699][454]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/topA3DFC6124E94E7FFC884CB9B7041C66E.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Content/Runer/top.uasset'
+[2022.12.12-15.28.04:180][454]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-15.28.04:180][454]LogContentValidation: Display: Validating StaticMesh /Game/Runer/top2.top2
+[2022.12.12-15.28.04:181][454]LogContentValidation: Display: Validating StaticMesh /Game/Runer/top3.top3
+[2022.12.12-15.28.04:181][454]LogContentValidation: Display: Validating StaticMesh /Game/Runer/top4.top4
+[2022.12.12-15.28.04:181][454]LogContentValidation: Display: Validating StaticMesh /Game/Runer/top1.top1
+[2022.12.12-15.28.04:181][454]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.12.12-15.28.04:181][454]LogContentValidation: Display: Validating Blueprint /Game/Runer/MasterTile.MasterTile
+[2022.12.12-15.28.04:181][454]LogContentValidation: Display: Validating Blueprint /Game/Runer/Train.Train
+[2022.12.12-15.28.04:181][454]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.12-15.28.04:181][454]LogContentValidation: Display: Validating Blueprint /Game/Runer/Cube_Blueprint.Cube_Blueprint
+[2022.12.12-15.28.04:181][454]LogContentValidation: Display: Validating StaticMesh /Game/Runer/top.top
+[2022.12.12-15.28.17:337][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.12.12-15.28.17:943][962]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.28.17:944][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.28.18:046][962]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.28.18:046][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.28.19:284][962]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.28.19:284][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.28.20:072][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.12-15.28.20:072][962]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.28.20:072][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.28.21:287][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.12-15.28.21:287][962]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.28.21:288][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.28.21:644][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.12-15.28.21:644][962]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.28.21:644][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.28.22:121][962]LogSlate: Window 'Our_Game - Unreal Editor' being destroyed
+[2022.12.12-15.28.26:350][963]Cmd: QUIT_EDITOR
+[2022.12.12-15.28.26:350][963]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.12-15.28.26:388][963]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.12-15.28.27:240][963]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.12-15.28.27:240][963]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.12-15.28.27:240][963]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2022.12.12-15.28.27:281][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-15.28.27:471][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-15.28.27:963][963]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.12-15.28.27:964][963]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.12-15.28.28:289][963]LogExit: Preparing to exit.
+[2022.12.12-15.28.30:034][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms

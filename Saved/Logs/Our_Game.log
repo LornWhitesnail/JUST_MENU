@@ -3233,3 +3233,13 @@ Script Stack (0 frames):
 [2022.12.25-21.41.04:804][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.12.25-21.41.04:815][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
 [2022.12.25-21.41.04:850][425]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.12.25-21.41.37:624][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.12.25-21.41.37:649][679]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/ThirdPersonExampleMap_Auto464347ED942AA8883EB1B12BD0393E234.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2022.12.25-21.41.37:651][679]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.093
+[2022.12.25-21.41.37:651][679]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2022.12.25-21.41.37:652][679]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Runer/MasterTile] ([2] browsable assets)...
+[2022.12.25-21.41.37:670][679]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Runer/MasterTile.MasterTile]
+[2022.12.25-21.41.37:670][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Runer/MasterTile]
+[2022.12.25-21.41.37:670][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runer/MasterTile" FILE="../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/Autosaves/Game/Runer/MasterTile_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.12.25-21.41.37:693][679]LogSavePackage: Moving '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/MasterTile_Auto46F4C468449BA47B41ECF7AA4E70A490C.tmp' to '../../../../../../Users/teles/Documents/GitHub/JUST_MENU/Saved/Autosaves/Game/Runer/MasterTile_Auto4.uasset'
+[2022.12.25-21.41.37:693][679]LogFileHelpers: Auto-saving content packages took 0.042
